@@ -139,6 +139,8 @@ $ git push
 
 #### Happy?? Star ⭐ this Repo. 🤩
 
+###LICENSE-MIT
+
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/DSC-JSS-NOIDA/QuickLearn)
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/DSC-JSS-NOIDA/QuickLearn)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/DSC-JSS-NOIDA/QuickLearn)
